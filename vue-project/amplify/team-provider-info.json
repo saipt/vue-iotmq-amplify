@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mqiot-dev-104815-authRole",
+      "UnauthRoleArn": "arn:aws:iam::172327970845:role/amplify-mqiot-dev-104815-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::172327970845:role/amplify-mqiot-dev-104815-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-mqiot-dev-104815-deployment",
+      "UnauthRoleName": "amplify-mqiot-dev-104815-unauthRole",
+      "StackName": "amplify-mqiot-dev-104815",
+      "StackId": "arn:aws:cloudformation:ap-south-1:172327970845:stack/amplify-mqiot-dev-104815/b74e2b10-8508-11ee-8e3b-02fdd04a1222",
+      "AmplifyAppId": "d3ocj5xsat0wse"
+    },
+    "categories": {
+      "auth": {
+        "mqiot1af59ca1": {}
+      }
+    }
+  }
+}
